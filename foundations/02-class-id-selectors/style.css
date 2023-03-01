@@ -1,0 +1,15 @@
+.pinker{
+    background-color:#ffa472;
+}
+.bigger{
+    font-size: 24px;
+}
+#bluer-bigger{
+color: blue;
+font-size: 36px;
+}
+#bolder-greener-bigger{
+    font-weight: bold;
+    font-size: 24px;
+    background-color: greenyellow;
+}
