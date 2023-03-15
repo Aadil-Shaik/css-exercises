@@ -1,4 +1,5 @@
 .header {
+  /*remove this width property to alternate between outcome 1 and 2*/
   width: 50%;
   padding: 8px;
   margin: 0 auto;
